@@ -50,3 +50,6 @@ No installation or backend setup required.
 <hr>
 
 📸 Screenshots
+
+### 🏠 Home Page
+(Screenshots/Screenshot-1.png)
