@@ -59,3 +59,10 @@ No installation or backend setup required.
 
 ### 📊 Student Table
 ![Table](Screenshots/Screenshot-3.png)
+<hr>
+
+👨‍💻 Author
+
+-topperguy7
+
+Built for learning and practice.
