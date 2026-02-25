@@ -36,3 +36,17 @@ StudMan/<br>
 <li>Vanilla JavaScript (ES6)</li>
 <li>Browser localStorage API</li>
 </ul>
+<hr>
+
+🛠️ How To Run
+
+Clone the repository:
+
+    git clone https://github.com/your-username/studman.git
+
+Open index.html in your browser.
+
+No installation or backend setup required.
+<hr>
+
+📸 Screenshots
