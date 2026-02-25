@@ -63,6 +63,5 @@ No installation or backend setup required.
 
 👨‍💻 Author
 
--topperguy7
-
+-topperguy7<br>
 Built for learning and practice.
