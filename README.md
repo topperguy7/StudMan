@@ -17,3 +17,13 @@ It allows users to Create, View, and Delete student records with persistent stor
   <li>Modal-based Form UI</li>
 </ul>
 <hr>
+
+🏗️ Project Structure
+
+StudMan/<br>
+│<br>
+├── index.html      # Application structure & layout<br>
+├── style.css       # Styling, layout, dark mode, responsiveness<br>
+├── script.js       # Core logic (CRUD + storage + DOM manipulation)<br>
+└── image.jpg       # Hero section image
+<hr>
