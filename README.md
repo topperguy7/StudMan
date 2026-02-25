@@ -52,4 +52,4 @@ No installation or backend setup required.
 📸 Screenshots
 
 ### 🏠 Home Page
-[!Home Page](Screenshots/Screenshot-1.png)
+![Home Page](Screenshots/Screenshot-1.png)
