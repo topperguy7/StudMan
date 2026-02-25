@@ -1,0 +1,98 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="nav">
+        <div class="nav-top">
+            <h1 id="studman">StudMan</h1>
+        </div>
+        <div class="nav-bot">
+            <button id="table">Table</button>
+            <div class="features-div">
+                <button id="features">Features</button>
+                    <div class="dropdown">
+                        <button id="add">Create</button>
+                        <button id="del">Delete</button>
+                    </div>
+            </div>
+            <button id="about">About</button>
+            <button id="toggle-theme">🌙</button>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <div class="main-content-left">
+            <h1>Organize. Track. Manage. Effortlessly.</h1>
+            <p>Streamline student record management with seamless CRUD operations, instant filtering, 
+                and persistent localStorage — all in one intuitive interface.</p>
+        </div>
+        <div class="main-content-right">
+            <img src="image.jpg" width="600px" height="700px">
+        </div>
+    </div>
+
+    <div class="add-modal">
+        <form id="add-form">
+            <h1>Create Student Data</h1>
+
+            <input type="text" placeholder="name" required>
+
+            <input type="email" placeholder="email" required>
+
+            <input type="text" placeholder="course" required>
+
+            <input type="number" placeholder="sgpa" required>
+
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+    <div class="del-modal">
+        <form id="del-form">
+            <h1>Delete Student Data</h1>
+
+            <input type="text" placeholder="name" required>
+
+            <input type="email" placeholder="email" required>
+
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+    <div id="table-div">
+        <h1>Student Data Table</h1>
+        <table id="stu-table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Course</th>
+                    <th>SGPA</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+    <div id="about-div">
+        <h1>About</h1>
+        <p>StudMan is a lightweight, browser-based Student Management System designed to simplify 
+        academic record handling.</p>
+
+        <p>It allows users to create, view, and delete student records 
+        seamlessly using intuitive CRUD operations.</p>
+
+        <p> All data is stored securely in the browser using localStorage, ensuring persistence 
+        even after page refresh without requiring a backend server.</p> 
+        
+        <p>The application focuses on simplicity, speed, and usability while demonstrating core front-end development 
+        concepts such as DOM manipulation, event handling, form validation, dynamic table 
+        rendering, and client-side storage.</p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
