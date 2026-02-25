@@ -53,3 +53,9 @@ No installation or backend setup required.
 
 ### 🏠 Home Page
 ![Home Page](Screenshots/Screenshot-1.png)
+
+### ➕ Create Modal
+![Create Modal](Screenshots/Screenshot-2.png)
+
+### 📊 Student Table
+![Table](Screenshots/Screenshot-3.png)
