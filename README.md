@@ -27,3 +27,12 @@ StudMan/<br>
 ├── script.js       # Core logic (CRUD + storage + DOM manipulation)<br>
 └── image.jpg       # Hero section image
 <hr>
+
+💻 Tech Stack
+
+<ul>
+<li>HTML5</li>
+<li>CSS3 (Flexbox, Media Queries, CSS Variables)</li>
+<li>Vanilla JavaScript (ES6)</li>
+<li>Browser localStorage API</li>
+</ul>
